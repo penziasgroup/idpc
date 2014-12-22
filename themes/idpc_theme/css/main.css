@@ -2,4 +2,8 @@
 Custom CSS styles that override base theme go here.
 */
 
+.contact-link a {
+  padding:8px 0 22px 60px;
+}
+
 
